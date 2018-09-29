@@ -160,7 +160,7 @@ For our post's last updated label, we want to create a method that executes the
 
 Helpers are generally organized by controller. If you use `rails g scaffold` or
 `rails g controller`, Rails will create a helper for your controller and put it
-in the `app\helpers` directory. If we look in our helpers directory, we'll see
+in the `app/helpers` directory. If we look in our helpers directory, we'll see
 `application_helper.rb`, `authors_helper.rb`, and `posts_helper.rb`. This
 matches what we have in our `controllers` directory —
 `application_controller.rb`, `authors_controller.rb`, and `posts_controller.rb`.
