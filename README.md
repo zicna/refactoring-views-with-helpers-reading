@@ -150,7 +150,7 @@ Rails provides us with a great way to extract common presentation logic from
 multiple views: helpers! Helpers are methods that are available to your views
 and encapsulate a common bit of code. If you've used a `link_to` or a
 `text_field` then you've already come across helpers. Rails has a ton of them
-built-in to help keep you from having to repeat all the code necessary to build
+built in to help keep you from having to repeat all the code necessary to build
 a link to a given route, display an image, or create a form.
 
 We can also create our own helpers to solve our own problems.
