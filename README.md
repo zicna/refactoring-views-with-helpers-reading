@@ -1,10 +1,10 @@
-# Refactoring Views With Helpers
+# Refactoring Views with Helpers
 
 ## Objectives
 
-1.  Understand how and when to use helper methods
-2.  Create helper methods for specific controllers
-3.  Create application-wide helpers
+1. Understand how and when to use helper methods
+2. Create helper methods for specific controllers
+3. Create application-wide helpers
 
 ## A Story As Old As `strftime`
 
